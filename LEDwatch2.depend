@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1463130978 source:g:\igraphics\myigraphics\balldemo.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462382717 g:\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462170168 source:g:\igraphics\myigraphics\imain.cpp
+	"iGraphics.h"
+
+1463146839 source:c:\users\asus\documents\ledwatch2\ledwatch.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1462382717 c:\users\asus\documents\ledwatch2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
